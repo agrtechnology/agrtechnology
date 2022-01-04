@@ -29,4 +29,6 @@ Pinterest: https://pinterest.com/agrtech/
 
 LinkedIn: https://www.linkedin.com/company/agr-technology/
 
+Code snippets (gists): https://gist.github.com/agrtechnology
+
 Linktree: https://linktr.ee/agrtech
